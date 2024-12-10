@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kariina0  
+- 👀 I’m interested in web development and programming.  
+- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, and **C**.  
+- 💞️ I’m looking to collaborate on beginner-friendly web projects.  
+- 📫 How to reach me: [karinaalveskap@gmail.com]
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I love solving puzzles and exploring how things work!  
